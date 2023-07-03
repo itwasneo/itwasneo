@@ -1,5 +1,5 @@
 # 🔭 About Me:
-I'm a Software Engineer with 4 years of professional experience.<brI’m looking for a back-end heavy position currently.<br>🌱 I’m learning Rust with 80% of my focus right now.<br>💬 YOU can ask me about basically anything and I would gladly try to answer it, ONLY IF I have an answer.
+I'm a Software Engineer with 4 years of professional experience.<br>I’m looking for a back-end heavy position currently.<br>🌱 I’m learning Rust with 80% of my focus right now.<br>💬 YOU can ask me about basically anything and I would gladly try to answer it, ONLY IF I have an answer.
 
 
 ## 🌐 Socials:
